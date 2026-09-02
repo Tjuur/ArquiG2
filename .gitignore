@@ -1,0 +1,10 @@
+# Archivos generados por simulación
+sim/*.vcd
+sim/*_test
+
+# Archivos temporales de Icarus Verilog
+*.vvp
+
+# Archivos temporales del editor
+*.swp
+*~
